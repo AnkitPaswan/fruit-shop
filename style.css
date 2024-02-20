@@ -140,6 +140,14 @@ html {
     }
 }
 
+
+@media screen and (max-width: 400px) {
+
+    .header-content .center {
+        display: none;
+    }
+}
+
 /* ................banner-style............ */
 
 .hero-banner {
@@ -479,7 +487,7 @@ html {
     }
 
     .about-content img {
-        width: 300px;
+        width: 200px;
     }
 }
 
